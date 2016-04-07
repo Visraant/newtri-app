@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  address: MyString
+  kind_of_facility: MyString
+  trauma_level: MyString
+  total_capacity: MyString
+
+two:
+  name: MyString
+  address: MyString
+  kind_of_facility: MyString
+  trauma_level: MyString
+  total_capacity: MyString
